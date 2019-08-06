@@ -4,13 +4,19 @@ import collections.map.treeMap.AverageStudentGrade;
 import collections.map.treeMap.SubjectGrade;
 import collections.map.treeMap.TreeMapRunner;
 
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Set;
+import java.util.SortedMap;
+
 public class IOMain {
     public static final String FILE_NAME = "GradeBook.txt";
     public static final String BINARY_FILE = "Students.bin";
     public static final String BUFFERED_FILE = "Buffered.bin";
 
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, IOException {
         SortedMap<AverageStudentGrade, Set<SubjectGrade>> grades = TreeMapRunner.createGrades();
         Reader reader = new Reader();
         Writer writer = new Writer();
