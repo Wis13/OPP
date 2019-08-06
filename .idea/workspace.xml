@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f9d9c0aa-5bb9-43e6-890e-833266b63f8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/javaio/IOMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/javaio/IOMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/collections/javaio/FileAttributor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/collections/javaio/FileAttributor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/javaio/FileAttributor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/javaio/FileAttributor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IOMain">
+  <component name="RunManager" selected="Application.FileAttributor">
     <configuration name="FileAttributor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.javaio.FileAttributor" />
       <module name="OOP" />
@@ -142,8 +142,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IOMain" />
         <item itemvalue="Application.FileAttributor" />
+        <item itemvalue="Application.IOMain" />
         <item itemvalue="Application.TreeMapRunner" />
         <item itemvalue="Application.MapLauncher" />
         <item itemvalue="Application.SetRunner" />
@@ -173,7 +173,7 @@
       <workItem from="1565027403869" duration="5453000" />
       <workItem from="1565053821078" duration="496000" />
       <workItem from="1565130251700" duration="58000" />
-      <workItem from="1565130394095" duration="308000" />
+      <workItem from="1565130394095" duration="4550000" />
     </task>
     <servers />
   </component>
