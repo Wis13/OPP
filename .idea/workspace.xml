@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9d9c0aa-5bb9-43e6-890e-833266b63f8e" name="Default Changelist" comment="" />
+    <list default="true" id="f9d9c0aa-5bb9-43e6-890e-833266b63f8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/00P/META-INF/00P.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/StuckQueue/StuckQueueLauncher$Passenger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/StuckQueue/StuckQueueLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/arrays/AraysLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/arrays/Dies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/arrays/GradeBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/autoboxing/ColleectionMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/collectionsClass/Card$Face.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/collectionsClass/Card$Suit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/collectionsClass/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/collectionsClass/CardComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/collectionsClass/CollectionRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/javaio/FileAttributor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/javaio/FileUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/javaio/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/javaio/IOMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/javaio/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/javaio/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/javaio/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/list/ListRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/list/ToDoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/map/hashMap/MapLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/map/hashMap/WordWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/map/treeMap/AverageStudentGrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/map/treeMap/SubjectGrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/map/treeMap/TreeMapRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/set/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/collections/set/SetRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/com/javalesson/constructors/ConstructionMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/com/javalesson/domainmodel/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/com/javalesson/oop/Dog$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/com/javalesson/oop/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/com/javalesson/oop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/com/javalesson/oop/Size.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/exceptions/ExcaptionHandligMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/inheritance/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/inheritance/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/inheritance/ElectricCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/inheritance/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/inheritance/EngineType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/inheritance/FuelAuto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/inheritance/InheritanceMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/inheritance/Piston.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/inheritance/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/CellPhone$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/CellPhone$AbstractPhoneButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/CellPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/Display$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/Display$Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/Display$Pixel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/RadioModule$1CSMModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/innerclasses/RadioModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/interfaces/CellPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/interfaces/Deliveable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/interfaces/Electronics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/interfaces/Fridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/interfaces/InterfaceRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/interfaces/Orderable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/interfaces/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/interfaces/Pricable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00P/interfaces/Size.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +87,50 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="367" />
+    <option name="y" value="140" />
+    <option name="width" value="1851" />
+    <option name="height" value="825" />
+  </component>
   <component name="ProjectId" id="1OU5ty48kWJFmDfvreK3BBq6CJj" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OPP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OPP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/temp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -132,53 +231,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="OOP" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="OOP" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.FileAttributor" />
@@ -210,8 +262,45 @@
       <workItem from="1564422074205" duration="173000" />
       <workItem from="1564422328274" duration="64031000" />
       <workItem from="1565027403869" duration="5453000" />
+      <workItem from="1565053821078" duration="496000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="496000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -230,6 +319,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java</url>
           <line>212</line>
+          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>

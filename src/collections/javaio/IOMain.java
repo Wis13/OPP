@@ -4,12 +4,6 @@ import collections.map.treeMap.AverageStudentGrade;
 import collections.map.treeMap.SubjectGrade;
 import collections.map.treeMap.TreeMapRunner;
 
-import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.*;
-
 public class IOMain {
     public static final String FILE_NAME = "GradeBook.txt";
     public static final String BINARY_FILE = "Students.bin";
