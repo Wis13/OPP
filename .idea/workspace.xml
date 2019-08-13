@@ -2,9 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9d9c0aa-5bb9-43e6-890e-833266b63f8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/collections/javaio/FileTreeVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/streams/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/streams/StreamOverviewMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/BoxList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/GenericMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/GenericMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/MyBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/company/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/company/CompanyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/company/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/ITSpecialist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/LambdaScopeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/LambdasMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/TransFormable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/TransformUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/lambdaFuntionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/model/HigerOrderFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/model/RichPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__Buffered.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__Buffered.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__GradeBook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__Students.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__Buffered.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__Buffered.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__GradeBook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__Students.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Buffered.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Buffered.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__GradeBook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Students.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__Buffered.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__Buffered.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__GradeBook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__Students.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__Buffered.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__Buffered.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__GradeBook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__Students.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Buffered.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Buffered.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__GradeBook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Students.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/collections/javaio/FileAttributor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/collections/javaio/FileAttributor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/javaio/FileAttributor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/javaio/FileAttributor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/com/javalesson/domainmodel/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/com/javalesson/domainmodel/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javalesson/domainmodel/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/domainmodel/Employee.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +83,9 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OOP" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,12 +103,16 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1OU5ty48kWJFmDfvreK3BBq6CJj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/temp/a/b/c" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -52,14 +125,18 @@
       <recent name="com" />
       <recent name="oop" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/temp" />
-    </key>
     <key name="MoveInnerDialog.RECENTS_KEY">
       <recent name="collections.collectionsClass" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="innerclasses" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\OOP\temp\a\b\c" />
+      <recent name="C:\workspace\OOP\temp\a\b" />
+      <recent name="C:\workspace\OOP\temp\a" />
+      <recent name="C:\workspace\OOP\temp\a\b\s" />
+      <recent name="$PROJECT_DIR$/temp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,13 +151,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileAttributor">
-    <configuration name="FileAttributor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.javaio.FileAttributor" />
+  <component name="RunManager" selected="Application.StreamOverviewMain">
+    <configuration name="HigerOrderFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.model.HigerOrderFunctionExample" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.javaio.*" />
+          <option name="PATTERN" value="lambdas.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.javaio.IOMain" />
+    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.LambdaExample" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.javaio.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.map.hashMap.MapLauncher" />
+    <configuration name="LambdasMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.LambdasMain" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.map.hashMap.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.set.SetRunner" />
+    <configuration name="StreamOverviewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.streams.StreamOverviewMain" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.set.*" />
+          <option name="PATTERN" value="collections.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMapRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.map.treeMap.TreeMapRunner" />
+    <configuration name="lambdaFuntionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.lambdaFuntionalExample" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.map.treeMap.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileAttributor" />
-        <item itemvalue="Application.IOMain" />
-        <item itemvalue="Application.TreeMapRunner" />
-        <item itemvalue="Application.MapLauncher" />
-        <item itemvalue="Application.SetRunner" />
+        <item itemvalue="Application.StreamOverviewMain" />
+        <item itemvalue="Application.HigerOrderFunctionExample" />
+        <item itemvalue="Application.lambdaFuntionalExample" />
+        <item itemvalue="Application.LambdaExample" />
+        <item itemvalue="Application.LambdasMain" />
       </list>
     </recent_temporary>
   </component>
@@ -173,12 +250,25 @@
       <workItem from="1565027403869" duration="5453000" />
       <workItem from="1565053821078" duration="496000" />
       <workItem from="1565130251700" duration="58000" />
-      <workItem from="1565130394095" duration="4550000" />
+      <workItem from="1565130394095" duration="4996000" />
+      <workItem from="1565146371596" duration="10683000" />
+      <workItem from="1565211031203" duration="10771000" />
+      <workItem from="1565284014828" duration="2097000" />
+      <workItem from="1565296512525" duration="953000" />
+      <workItem from="1565297549840" duration="7341000" />
+      <workItem from="1565375485342" duration="9100000" />
+      <workItem from="1565544495216" duration="7246000" />
+      <workItem from="1565568568235" duration="2655000" />
+      <workItem from="1565630160618" duration="840000" />
+      <workItem from="1565631110267" duration="24539000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bin" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -192,6 +282,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

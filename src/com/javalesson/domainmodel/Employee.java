@@ -26,6 +26,7 @@ public class Employee {
         this.position = position;
         this.salary = salary;
         this.department = department;
+
         System.out.println("Constructor with 4 params called");
     }
 
@@ -48,6 +49,7 @@ public class Employee {
     public int getSalary() {
         return salary;
     }
+
 
     @Override
     public String toString() {
