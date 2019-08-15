@@ -2,7 +2,7 @@ package concurrency.executors;
 
 import static concurrency.threadslesson.ColorSheme.RED;
 
-public class Louncher {
+public class Launcher {
     private static final int POOL_SIZE = 2;
 
     public static void main(String[] args) throws InterruptedException {
