@@ -2,75 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9d9c0aa-5bb9-43e6-890e-833266b63f8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collections/javaio/FileTreeVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/streams/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/streams/StreamOverviewMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/BoxList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/GenericMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/MyBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/company/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/company/CompanyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/company/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/ITSpecialist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/company/employees/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/LambdaScopeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/LambdasMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/TransFormable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/TransformUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/lambdaFuntionalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/model/HigerOrderFunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/model/RichPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/model/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__Buffered.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__Buffered.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__GradeBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__Students.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__Buffered.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__Buffered.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__GradeBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__Students.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Buffered.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Buffered.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__GradeBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Students.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__Buffered.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__Buffered.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__GradeBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__Students.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__Buffered.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__Buffered.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__GradeBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__Students.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Buffered.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Buffered.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__GradeBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp2/ copy/2019-08-06__a/2019-08-06__b/2019-08-06__c/2019-08-06__Students.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/executors/GCDRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/executors/Louncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/synch/FibonacciConcurent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/synch/SynchronizedBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/threadslesson/ColorSheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/threadslesson/ConcurrentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/volatilelesson/VolatileMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/com/javalesson/domainmodel/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/com/javalesson/domainmodel/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javalesson/domainmodel/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/domainmodel/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/collections/streams/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/collections/streams/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/collections/streams/StreamOverviewMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/collections/streams/StreamOverviewMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/streams/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/streams/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/streams/StreamOverviewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/streams/StreamOverviewMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,13 +94,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamOverviewMain">
-    <configuration name="HigerOrderFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.model.HigerOrderFunctionExample" />
+  <component name="RunManager" selected="Application.Louncher">
+    <configuration name="ConcurrentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.threadslesson.ConcurrentMain" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.model.*" />
+          <option name="PATTERN" value="concurrency.threadslesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.LambdaExample" />
+    <configuration name="FibonacciConcurent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.synch.FibonacciConcurent" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="concurrency.synch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdasMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.LambdasMain" />
+    <configuration name="Louncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.executors.Louncher" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="concurrency.executors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamOverviewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.streams.StreamOverviewMain" />
+    <configuration name="SynchronizedBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.synch.SynchronizedBlocks" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.streams.*" />
+          <option name="PATTERN" value="concurrency.synch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdaFuntionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.lambdaFuntionalExample" />
+    <configuration name="VolatileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.volatilelesson.VolatileMain" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="concurrency.volatilelesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamOverviewMain" />
-        <item itemvalue="Application.HigerOrderFunctionExample" />
-        <item itemvalue="Application.lambdaFuntionalExample" />
-        <item itemvalue="Application.LambdaExample" />
-        <item itemvalue="Application.LambdasMain" />
+        <item itemvalue="Application.Louncher" />
+        <item itemvalue="Application.SynchronizedBlocks" />
+        <item itemvalue="Application.FibonacciConcurent" />
+        <item itemvalue="Application.VolatileMain" />
+        <item itemvalue="Application.ConcurrentMain" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +204,10 @@
       <workItem from="1565568568235" duration="2655000" />
       <workItem from="1565630160618" duration="840000" />
       <workItem from="1565631110267" duration="24539000" />
+      <workItem from="1565729715297" duration="2848000" />
+      <workItem from="1565736689104" duration="10481000" />
+      <workItem from="1565761908053" duration="16068000" />
+      <workItem from="1565843438909" duration="4282000" />
     </task>
     <servers />
   </component>
