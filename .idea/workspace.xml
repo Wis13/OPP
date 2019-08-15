@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9d9c0aa-5bb9-43e6-890e-833266b63f8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/concurrency/executors/GCDRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/executors/Louncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/synch/FibonacciConcurent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/synch/SynchronizedBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/threadslesson/ColorSheme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/threadslesson/ConcurrentMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/volatilelesson/VolatileMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/collections/streams/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/collections/streams/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP/collections/streams/StreamOverviewMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/collections/streams/StreamOverviewMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/streams/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/streams/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/streams/StreamOverviewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/streams/StreamOverviewMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="f9d9c0aa-5bb9-43e6-890e-833266b63f8e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +194,7 @@
       <workItem from="1565729715297" duration="2848000" />
       <workItem from="1565736689104" duration="10481000" />
       <workItem from="1565761908053" duration="16068000" />
-      <workItem from="1565843438909" duration="4282000" />
+      <workItem from="1565843438909" duration="6218000" />
     </task>
     <servers />
   </component>
