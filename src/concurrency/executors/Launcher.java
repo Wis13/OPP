@@ -10,7 +10,7 @@ public class Launcher {
         System.out.println(RED + "Starting main thread");
         GCDRunnable r = new GCDRunnable(isDaemon);
         runInOneThread(r, isDaemon);
-        Thread.sleep(1500);
+        Thread.sleep(206);
         System.out.println(RED + "Leaving the main thread");
     }
     private static void runInOneThread(GCDRunnable r, boolean isDaemon) throws InterruptedException {
