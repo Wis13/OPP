@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f9d9c0aa-5bb9-43e6-890e-833266b63f8e" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="f9d9c0aa-5bb9-43e6-890e-833266b63f8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/produserconsumer/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/waitnotify/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/waitnotify/WaitNotifyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/concurrency/executors/Louncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/executors/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/executors/Launcher.java" afterDir="false" />
+    </list>
+>>>>>>> a3723a2fffc2306cc2e1fe28b2bb06ae08fdde4e
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +67,18 @@
       <recent name="com" />
       <recent name="oop" />
     </key>
-    <key name="MoveInnerDialog.RECENTS_KEY">
-      <recent name="collections.collectionsClass" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="innerclasses" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\workspace\OOP\temp\a\b\c" />
       <recent name="C:\workspace\OOP\temp\a\b" />
       <recent name="C:\workspace\OOP\temp\a" />
       <recent name="C:\workspace\OOP\temp\a\b\s" />
       <recent name="$PROJECT_DIR$/temp" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="collections.collectionsClass" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="innerclasses" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -81,39 +93,32 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="ConcurrentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concurrency.threadslesson.ConcurrentMain" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="concurrency.threadslesson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciConcurent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.synch.FibonacciConcurent" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="concurrency.synch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+=======
+  <component name="RunManager" selected="Application.SynchronizedBuffer">
     <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concurrency.executors.Launcher" />
+>>>>>>> a3723a2fffc2306cc2e1fe28b2bb06ae08fdde4e
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="concurrency.executors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.produserconsumer.ProducerConsumer" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrency.produserconsumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +139,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.volatilelesson.VolatileMain" />
+    <configuration name="SynchronizedBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.locks.SynchronizedBuffer" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.volatilelesson.*" />
+          <option name="PATTERN" value="concurrency.locks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitNotifyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.waitnotify.WaitNotifyExample" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrency.waitnotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SynchronizedBuffer" />
+        <item itemvalue="Application.WaitNotifyExample" />
+        <item itemvalue="Application.ProducerConsumer" />
         <item itemvalue="Application.Launcher" />
         <item itemvalue="Application.SynchronizedBlocks" />
-        <item itemvalue="Application.FibonacciConcurent" />
-        <item itemvalue="Application.VolatileMain" />
-        <item itemvalue="Application.ConcurrentMain" />
       </list>
     </recent_temporary>
   </component>
@@ -194,8 +212,13 @@
       <workItem from="1565729715297" duration="2848000" />
       <workItem from="1565736689104" duration="10481000" />
       <workItem from="1565761908053" duration="16068000" />
+<<<<<<< HEAD
       <workItem from="1565843438909" duration="4282000" />
       <workItem from="1565849963120" duration="164000" />
+=======
+      <workItem from="1565843438909" duration="15618000" />
+      <workItem from="1566235247069" duration="8814000" />
+>>>>>>> a3723a2fffc2306cc2e1fe28b2bb06ae08fdde4e
     </task>
     <servers />
   </component>
@@ -236,6 +259,66 @@
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java</url>
           <line>212</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/produserconsumer/ProducerConsumer.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/locks/SynchronizedBuffer.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
